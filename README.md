@@ -6,7 +6,7 @@ Google doesn't allow "insecure apps" to connect and retrieve your emails, so you
 
 After wasting about an hour trying to make those tools work, I realized how ridiculous the process was. Instead, I opened Apple Mail, exported the inbox, and got an .mbox file. But then came another problem: Zoho Mail requires emails in .eml format.
 
-That's where this script comes in—it extracts your emails from an .mbox file and saves them as .eml files, which you can zip and upload to Zoho Mail.
+That's where this script comes in it extracts your emails from an .mbox file and saves them as .eml files, which you can zip and upload to Zoho Mail.
 
 Usage
 ```bash
